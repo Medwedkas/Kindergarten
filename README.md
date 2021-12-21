@@ -3,4 +3,4 @@
 Для запуска вам понаюится:
 1 - Docker
 2 - Pycharm
-3  - VS Studio
+3  - Visual Studio
